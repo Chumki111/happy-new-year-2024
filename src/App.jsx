@@ -1,6 +1,7 @@
 import Banner from "./components/Banner"
 import Category from "./components/Category"
 import Party from "./components/Party"
+import Section_5 from "./components/Section_5"
 
 
 function App() { 
@@ -12,6 +13,7 @@ function App() {
       <Banner/>
       <Category/>
       <Party/>
+      <Section_5/>
       </div>
      </div>
        
