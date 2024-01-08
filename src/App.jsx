@@ -1,5 +1,6 @@
 import Banner from "./components/Banner"
 import Category from "./components/Category"
+import Party from "./components/Party"
 
 
 function App() { 
@@ -10,6 +11,7 @@ function App() {
       <div className="mx-10">
       <Banner/>
       <Category/>
+      <Party/>
       </div>
      </div>
        
